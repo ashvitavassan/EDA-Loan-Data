@@ -1,2 +1,2 @@
 # EDA-Loan-Data
-Explorartory Data Analysis done on Loan Data 
+Explorartory Data Analysis done on Loan Data using Python.
